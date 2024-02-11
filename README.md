@@ -8,7 +8,15 @@ Here are some ideas to get you started:
 - Bachelor of Science in Automation and Computer Engineering at ```Sapienza Università di Roma```
 
 ### 📌 Projects:  
-
+- [Custom Deep Learning models developed for Object Detection and Time Series Prediction challenges](https://github.com/titaniumwhite/AN2DL-challenges)
+- [Web-based diet planner chatbot built with Node.js, MongoDB and RESTful APIs](https://github.com/titaniumwhite/CN-meatballs)
+- [IoT Smart Bracelets Software Prototype for Children Proximity](https://github.com/titaniumwhite/IoT-project)
+- [Telco Web-Application offering pre-paid online services to web users](https://github.com/titaniumwhite/DB2-project)
+- [DREAM: Data-dRiven pREdictive fArMing. Requirement Analysis, Design Document and Alloy representation of the application](https://github.com/titaniumwhite/SE2-project)
+- [ROS development of Odometry and Transformation Frame System for a skid-steering robot.](https://github.com/titaniumwhite/ROS-odometry-project)
+- [ROS development of Localization and Mapping System for a robot](https://github.com/titaniumwhite/ROS-localization-project)
+- [IoT device RuuviTag script for Die-Cutter rotation detection and Bluetooth data transfer](https://github.com/titaniumwhite/diecutter-rotation-detection)
+- [Web-based user-friendly application acquiring Bluetooth data from low energy IoT device RuuviTag](https://github.com/titaniumwhite/diecutter-webapp)
 
 ### 📢 Contacts:  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" width="20" height="20">
