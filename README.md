@@ -15,8 +15,6 @@ I'm passionate about Deep Learning, Machine Learning and Software Development an
 - [DREAM: Data-dRiven pREdictive fArMing. Requirement Analysis, Design Document and Alloy representation of the application](https://github.com/titaniumwhite/SE2-project)
 - [ROS development of Odometry and Transformation Frame System for a skid-steering robot.](https://github.com/titaniumwhite/ROS-odometry-project)
 - [ROS development of Localization and Mapping System for a robot](https://github.com/titaniumwhite/ROS-localization-project)
-- [IoT device RuuviTag script for Die-Cutter rotation detection and Bluetooth data transfer](https://github.com/titaniumwhite/diecutter-rotation-detection)
-- [Web-based user-friendly application acquiring Bluetooth data from low energy IoT device RuuviTag](https://github.com/titaniumwhite/diecutter-webapp)
 
 ### 📢 Contacts:  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" width="20" height="20">
