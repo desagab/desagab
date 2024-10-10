@@ -1,6 +1,6 @@
 # Hi there, nice to meet you 👋
-I'm Gabriele and I'm a Computer Science and Engineering Graduate at Politecnico di Milano. I'll graduate very soon with a **Master Thesis** about Defect Detection called "Implementing cardboard crease detection in high speed manufacturing through deep learning". In the last two years I worked as a **Research Fellow** on a research project regarding Industry 4.0 in Sapienza University of Rome, specializing in **Computer Vision** and **Deep Learning**.   
-I'm passionate about Deep Learning, Machine Learning and Software Development and I'm actively seeking employment opportunities within these domains.
+I'm Gabriele and I'm a Computer Science and Engineering Graduate at Politecnico di Milano. I graduated in April 2024 with a **Master's Thesis** about Defect Detection called "Implementing cardboard crease detection in high speed manufacturing through deep learning". In the last two years, I worked as a **Research Fellow** on a research project regarding Industry 4.0 at Sapienza University of Rome, specializing in **Computer Vision** and **Deep Learning**.   
+I'm passionate about Deep Learning, Machine Learning, and Software Development, and I'm actively seeking employment opportunities in these domains.
 
 ### 🎓 Education:  
 - Master of Science in Engineering in Computer Science at ```Politecnico di Milano```
