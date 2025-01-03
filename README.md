@@ -19,7 +19,7 @@ I'm passionate about Deep Learning, Machine Learning, and Software Development, 
 ### 📢 Contacts:  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" width="20" height="20">
   <a href="https://www.linkedin.com/in/gabrieledesantis/" rel="nofollow noreferrer"> LinkedIn</a> &nbsp; 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="20" height="20"><a href="https://leetcode.com/u/titaniumwhite/" rel="nofollow noreferrer"> 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="20" height="20"><a href="https://leetcode.com/u/desagab/" rel="nofollow noreferrer"> 
  LeetCode</a> &nbsp;
 - <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="20" height="20"> ```gabriele1.desantis@gmail.com```&nbsp;
 
