@@ -9,13 +9,14 @@ Currently, I work as Software Engineer at Satispay.
 - Bachelor of Science in Automation and Computer Engineering at ```Sapienza Università di Roma```
 
 ### 📌 Projects:  
-- [Custom Deep Learning models developed for Object Detection and Time Series Prediction challenges](https://github.com/titaniumwhite/AN2DL-challenges)
-- [Web-based diet planner chatbot built with Node.js, MongoDB and RESTful APIs](https://github.com/titaniumwhite/CN-meatballs)
-- [IoT Smart Bracelets Software Prototype for Children Proximity](https://github.com/titaniumwhite/IoT-project)
-- [Telco Web-Application offering pre-paid online services to web users](https://github.com/titaniumwhite/DB2-project)
-- [DREAM: Data-dRiven pREdictive fArMing. Requirement Analysis, Design Document and Alloy representation of the application](https://github.com/titaniumwhite/SE2-project)
-- [ROS development of Odometry and Transformation Frame System for a skid-steering robot.](https://github.com/titaniumwhite/ROS-odometry-project)
-- [ROS development of Localization and Mapping System for a robot](https://github.com/titaniumwhite/ROS-localization-project)
+- [Lightweight Telegram script to monitor, filter, and notify about rental ads in groups.](https://github.com/desagab/Telegram-Rent-Watcher)
+- [Custom Deep Learning models developed for Object Detection and Time Series Prediction challenges](https://github.com/desagab/AN2DL-challenges)
+- [Web-based diet planner chatbot built with Node.js, MongoDB and RESTful APIs](https://github.com/desagab/CN-meatballs)
+- [IoT Smart Bracelets Software Prototype for Children Proximity](https://github.com/desagab/IoT-project)
+- [Telco Web-Application offering pre-paid online services to web users](https://github.com/desagab/DB2-project)
+- [DREAM: Data-dRiven pREdictive fArMing. Requirement Analysis, Design Document and Alloy representation of the application](https://github.com/desagab/SE2-project)
+- [ROS development of Odometry and Transformation Frame System for a skid-steering robot.](https://github.com/desagab/ROS-odometry-project)
+- [ROS development of Localization and Mapping System for a robot](https://github.com/desagab/ROS-localization-project)
 
 ### 📢 Contacts:  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" width="20" height="20">
