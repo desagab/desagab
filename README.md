@@ -9,7 +9,7 @@ Currently, I work as Software Engineer at Satispay.
 - Bachelor of Science in Automation and Computer Engineering at ```Sapienza Università di Roma```
 
 ### 📌 Projects:  
-- [Lightweight Telegram script to monitor, filter, and notify about rental ads in groups.](https://github.com/desagab/Telegram-Rent-Watcher)
+- [Lightweight Telegram script to monitor, filter, and notify about rental ads in groups](https://github.com/desagab/Telegram-Rent-Watcher)
 - [Custom Deep Learning models developed for Object Detection and Time Series Prediction challenges](https://github.com/desagab/AN2DL-challenges)
 - [Web-based diet planner chatbot built with Node.js, MongoDB and RESTful APIs](https://github.com/desagab/CN-meatballs)
 - [IoT Smart Bracelets Software Prototype for Children Proximity](https://github.com/desagab/IoT-project)
